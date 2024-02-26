@@ -1,5 +1,7 @@
 # Advanced Insurance Charges Forecasting
 
+## Overview
+
 This repository contains implementations of Linear and Polynomial Regression models for predicting individual medical costs billed by a health insurance provider. The models leverage various individual characteristics such as age, sex, BMI, region, number of children, and smoking habits to estimate medical costs.
 
 ## Dataset
