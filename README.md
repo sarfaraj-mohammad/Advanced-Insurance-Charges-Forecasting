@@ -34,7 +34,3 @@ Feel free to experiment with different datasets or tweak the model hyperparamete
 ## Contributing
 
 If you find any issues or have suggestions for improvement, please open an issue or submit a pull request. Contributions are welcome!
-
----
-
-Feel free to customize the description based on your preferences and any additional details you may want to include.
